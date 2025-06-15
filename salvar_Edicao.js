@@ -14,6 +14,8 @@ async function salvarEdicao(id) {
       if (res.ok) carregarDados();
       else alert('Erro ao salvar edição');
 
+}
+
 
 //SALVA OS DADOS (ATUALIZA OS DADOS) DEPOIS DE EDITADOS
 //Pertence ao  arquivo manutencao.html , código em javascript
