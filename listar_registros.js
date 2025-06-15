@@ -25,3 +25,5 @@ async function carregarDados() {
         console.error('Erro ao carregar dados:', err);
       }
     }
+
+carregarDados();
