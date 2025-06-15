@@ -9,7 +9,7 @@ function searchData() {
     document.getElementById('pesquisar')
       .addEventListener('keydown', e => { if (e.key === 'Enter') searchData(); });
 
-    carregarDados();
+    
 
 //Pertence ao  arquivo manutencao.html , código em javascript
 
